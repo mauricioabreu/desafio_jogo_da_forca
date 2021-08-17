@@ -28,4 +28,4 @@ No jogo via browser, os detalhes gráficos ficam por sua conta, mas é vital que
 * A pessoa vai ter um número máximo de tentativas antes de perder;
 * Letras repetidas não devem contar como erro;
 * O programa deve ignorar se a letra é maiúscula ou minúscula (case insensitive);
-* Caso a letra tentada já tenha sido acertada, ignore sem diminuir o número de tentativas.
+* O número máximo de erros pode ser dinâmico (relativo ao tamanho da palavra) ou fixo.
