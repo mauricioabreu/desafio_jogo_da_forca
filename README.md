@@ -27,4 +27,5 @@ No jogo via browser, os detalhes gráficos ficam por sua conta, mas é vital que
 * A palavra buscada pode vir de um arquivo texto;
 * A pessoa vai ter um número máximo de tentativas antes de perder;
 * Letras repetidas não devem contar como erro;
-* O programa deve ignorar se a letra é maiúscula ou minúscula (case insensitive).
+* O programa deve ignorar se a letra é maiúscula ou minúscula (case insensitive);
+* Caso a letra tentada já tenha sido acertada, ignore sem diminuir o número de tentativas.
